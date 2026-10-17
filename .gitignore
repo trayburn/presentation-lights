@@ -1,0 +1,12 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Office lock files
+~$*
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
